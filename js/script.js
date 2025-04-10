@@ -39,5 +39,5 @@ document.addEventListener('DOMContentLoaded', function () {
   });
 
 function openPage(pageName){
-  window.open(pageName,'_blank');
+  window.open(pageName,'_self');
 }
